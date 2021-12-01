@@ -7,4 +7,4 @@ I might use various languages to provide solutions... will see how it goes ;).
 
 | Day                                        | Name                                  | Languages                                       | Status   |
 |:------------------------------------------:|:--------------------------------------|:-----------------------------------------------:|:--------:|
-| [01](https://adventofcode.com/2021/day/1)  |  Sonar Sweep  | [RUST](day01/1/main.go) / [RUST](day01/2/main.go)   |   ✗ / ✗  |
+| [01](https://adventofcode.com/2021/day/1)  |  Sonar Sweep  | [RUST](day01/1/main.rs) / [RUST](day01/2/main.rs)   |   ✗ / ✗  |
