@@ -1,7 +1,3 @@
-# AdventOfCode2021
-This year I choose rust
-
-
 [Advent of Code 2021](https://adventofcode.com/2021)
 ========================
 
