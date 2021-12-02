@@ -2,7 +2,7 @@ name: AdventOfCode Calendar
 
 on:
   schedule:
-    - cron:  '* * * 12 *'
+    - cron:  '6 5 1-25 12 *'
 
   workflow_dispatch:
 
