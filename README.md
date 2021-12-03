@@ -8,3 +8,4 @@
 |:------------------------------------------:|:--------------------------------------|:-----------------------------------------------:|:--------:|
 | [01](https://adventofcode.com/2021/day/1)  |  Sonar Sweep  | [RUST](day01/1/main.rs) / [RUST](day01/2/main.rs)   |   ✔ / ✔  |
 | [02](https://adventofcode.com/2021/day/2)  |  Dive!  | [RUST](day02/1/main.rs) / [RUST](day02/2/main.rs)   |   ✗ / ✗  |
+| [03](https://adventofcode.com/2021/day/3)  |  Binary Diagnostic  | [RUST](day03/1/main.rs) / [RUST](day03/2/main.rs)   |   ✗ / ✗  |
