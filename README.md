@@ -11,3 +11,4 @@
 | [03](https://adventofcode.com/2021/day/3)  |  Binary Diagnostic  | [RUST](day03/1/main.rs) / [RUST](day03/2/main.rs)   |   ✗ / ✗  |
 | [04](https://adventofcode.com/2021/day/4)  |  Giant Squid  | [RUST](day04/1/main.rs) / [RUST](day04/2/main.rs)   |   ✗ / ✗  |
 | [05](https://adventofcode.com/2021/day/5)  |  Hydrothermal Venture  | [RUST](day05/1/main.rs) / [RUST](day05/2/main.rs)   |   ✗ / ✗  |
+| [06](https://adventofcode.com/2021/day/6)  |  Lanternfish  | [RUST](day06/1/main.rs) / [RUST](day06/2/main.rs)   |   ✗ / ✗  |
