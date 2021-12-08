@@ -13,3 +13,4 @@
 | [05](https://adventofcode.com/2021/day/5)  |  Hydrothermal Venture  | [RUST](day05/1/main.rs) / [RUST](day05/2/main.rs)   |   ✗ / ✗  |
 | [06](https://adventofcode.com/2021/day/6)  |  Lanternfish  | [RUST](day06/1/main.rs) / [RUST](day06/2/main.rs)   |   ✗ / ✗  |
 | [07](https://adventofcode.com/2021/day/7)  |  The Treachery of Whales  | [RUST](day07/1/main.rs) / [RUST](day07/2/main.rs)   |   ✗ / ✗  |
+| [08](https://adventofcode.com/2021/day/8)  |  Seven Segment Search  | [RUST](day08/1/main.rs) / [RUST](day08/2/main.rs)   |   ✗ / ✗  |
