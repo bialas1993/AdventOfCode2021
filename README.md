@@ -15,3 +15,4 @@
 | [07](https://adventofcode.com/2021/day/7)  |  The Treachery of Whales  | [RUST](day07/1/main.rs) / [RUST](day07/2/main.rs)   |   ✗ / ✗  |
 | [08](https://adventofcode.com/2021/day/8)  |  Seven Segment Search  | [RUST](day08/1/main.rs) / [RUST](day08/2/main.rs)   |   ✗ / ✗  |
 | [09](https://adventofcode.com/2021/day/9)  |  Smoke Basin  | [RUST](day09/1/main.rs) / [RUST](day09/2/main.rs)   |   ✗ / ✗  |
+| [10](https://adventofcode.com/2021/day/10)  |  Syntax Scoring  | [RUST](day10/1/main.rs) / [RUST](day10/2/main.rs)   |   ✗ / ✗  |
