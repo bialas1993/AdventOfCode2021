@@ -17,3 +17,4 @@
 | [09](https://adventofcode.com/2021/day/9)  |  Smoke Basin  | [RUST](day09/1/main.rs) / [RUST](day09/2/main.rs)   |   ✗ / ✗  |
 | [10](https://adventofcode.com/2021/day/10)  |  Syntax Scoring  | [RUST](day10/1/main.rs) / [RUST](day10/2/main.rs)   |   ✗ / ✗  |
 | [11](https://adventofcode.com/2021/day/11)  |  Dumbo Octopus  | [RUST](day11/1/main.rs) / [RUST](day11/2/main.rs)   |   ✗ / ✗  |
+| [12](https://adventofcode.com/2021/day/12)  |  Passage Pathing  | [RUST](day12/1/main.rs) / [RUST](day12/2/main.rs)   |   ✗ / ✗  |
