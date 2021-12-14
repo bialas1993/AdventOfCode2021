@@ -19,3 +19,4 @@
 | [11](https://adventofcode.com/2021/day/11)  |  Dumbo Octopus  | [RUST](day11/1/main.rs) / [RUST](day11/2/main.rs)   |   ✗ / ✗  |
 | [12](https://adventofcode.com/2021/day/12)  |  Passage Pathing  | [RUST](day12/1/main.rs) / [RUST](day12/2/main.rs)   |   ✗ / ✗  |
 | [13](https://adventofcode.com/2021/day/13)  |  Transparent Origami  | [RUST](day13/1/main.rs) / [RUST](day13/2/main.rs)   |   ✗ / ✗  |
+| [14](https://adventofcode.com/2021/day/14)  |  Extended Polymerization  | [RUST](day14/1/main.rs) / [RUST](day14/2/main.rs)   |   ✗ / ✗  |
