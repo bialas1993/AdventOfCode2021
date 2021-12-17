@@ -22,3 +22,4 @@
 | [14](https://adventofcode.com/2021/day/14)  |  Extended Polymerization  | [RUST](day14/1/main.rs) / [RUST](day14/2/main.rs)   |   ✗ / ✗  |
 | [15](https://adventofcode.com/2021/day/15)  |  Chiton  | [RUST](day15/1/main.rs) / [RUST](day15/2/main.rs)   |   ✗ / ✗  |
 | [16](https://adventofcode.com/2021/day/16)  |  Packet Decoder  | [RUST](day16/1/main.rs) / [RUST](day16/2/main.rs)   |   ✗ / ✗  |
+| [17](https://adventofcode.com/2021/day/17)  |  Trick Shot  | [RUST](day17/1/main.rs) / [RUST](day17/2/main.rs)   |   ✗ / ✗  |
