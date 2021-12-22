@@ -27,3 +27,4 @@
 | [19](https://adventofcode.com/2021/day/19)  |  Beacon Scanner  | [RUST](day19/1/main.rs) / [RUST](day19/2/main.rs)   |   ✗ / ✗  |
 | [20](https://adventofcode.com/2021/day/20)  |  Trench Map  | [RUST](day20/1/main.rs) / [RUST](day20/2/main.rs)   |   ✗ / ✗  |
 | [21](https://adventofcode.com/2021/day/21)  |  Dirac Dice  | [RUST](day21/1/main.rs) / [RUST](day21/2/main.rs)   |   ✗ / ✗  |
+| [22](https://adventofcode.com/2021/day/22)  |  Reactor Reboot  | [RUST](day22/1/main.rs) / [RUST](day22/2/main.rs)   |   ✗ / ✗  |
