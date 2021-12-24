@@ -29,3 +29,4 @@
 | [21](https://adventofcode.com/2021/day/21)  |  Dirac Dice  | [RUST](day21/1/main.rs) / [RUST](day21/2/main.rs)   |   ✗ / ✗  |
 | [22](https://adventofcode.com/2021/day/22)  |  Reactor Reboot  | [RUST](day22/1/main.rs) / [RUST](day22/2/main.rs)   |   ✗ / ✗  |
 | [23](https://adventofcode.com/2021/day/23)  |  Amphipod  | [RUST](day23/1/main.rs) / [RUST](day23/2/main.rs)   |   ✗ / ✗  |
+| [24](https://adventofcode.com/2021/day/24)  |  Arithmetic Logic Unit  | [RUST](day24/1/main.rs) / [RUST](day24/2/main.rs)   |   ✗ / ✗  |
